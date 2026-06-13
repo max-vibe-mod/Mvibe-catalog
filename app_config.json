@@ -1,11 +1,11 @@
 {
   "globalBanner": {
-    "show_banner": false,
-    "banner_id": "default",
-    "title": "",
-    "message": "",
-    "button_text": "",
-    "button_url": ""
+    "show_banner": true,
+    "banner_id": "4efc606164c8a294b64e",
+    "title": "Тест",
+    "message": "Тест",
+    "button_text": "Подробнее",
+    "button_url": "https:\/\/t.me\/max_vibe"
   },
   "appUpdate": {
     "latest_version": "",

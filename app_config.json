@@ -1,0 +1,17 @@
+{
+  "globalBanner": {
+    "show_banner": false,
+    "banner_id": "default",
+    "title": "",
+    "message": "",
+    "button_text": "",
+    "button_url": ""
+  },
+  "appUpdate": {
+    "latest_version": "",
+    "latest_version_code": 0,
+    "apk_url": "",
+    "release_notes": "",
+    "force_update": false
+  }
+}

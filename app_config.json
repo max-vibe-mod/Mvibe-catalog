@@ -1,11 +1,11 @@
 {
   "globalBanner": {
-    "show_banner": true,
-    "banner_id": "1e6fc303b3c7cb13a806",
-    "title": "Купить ключи на MVibeVPN",
-    "message": "Нажмите на кнопку купить",
-    "button_text": "Купить Ключи VLESS",
-    "button_url": "http:\/\/t.me\/max_vibe?direct"
+    "show_banner": false,
+    "banner_id": "",
+    "title": "",
+    "message": "",
+    "button_text": "",
+    "button_url": ""
   },
   "appUpdate": {
     "latest_version": "",

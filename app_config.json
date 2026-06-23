@@ -1,11 +1,11 @@
 {
   "globalBanner": {
-    "show_banner": false,
-    "banner_id": "",
-    "title": "",
-    "message": "",
-    "button_text": "",
-    "button_url": ""
+    "show_banner": true,
+    "banner_id": "3e11acffef2baa0b8c7b",
+    "title": "Объявления",
+    "message": "Бесплатные сервера будут на тех-обслуживание.",
+    "button_text": "Зайти в чат.",
+    "button_url": "https:\/\/t.me\/MaxVibeChat"
   },
   "appUpdate": {
     "latest_version": "",

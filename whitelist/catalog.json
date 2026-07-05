@@ -1,5 +1,48 @@
 {
   "version": 2,
   "updated": "2026-07-05",
-  "items": []
+  "items": [
+    {
+      "id": "igarck_cidr_checked",
+      "title": "igarck · CIDR проверенные (VK, Yandex…)",
+      "url": "https:\/\/raw.githubusercontent.com\/igareck\/vpn-configs-for-russia\/main\/WHITE-CIDR-RU-checked.txt",
+      "mirrorUrl": "https:\/\/cdn.jsdelivr.net\/gh\/igareck\/vpn-configs-for-russia@main\/WHITE-CIDR-RU-checked.txt",
+      "enabled": true
+    },
+    {
+      "id": "igarck_cidr_mobile",
+      "title": "igarck · CIDR мобильные (до 100)",
+      "url": "https:\/\/raw.githubusercontent.com\/igareck\/vpn-configs-for-russia\/main\/Vless-Reality-White-Lists-Rus-Mobile.txt",
+      "mirrorUrl": "https:\/\/cdn.jsdelivr.net\/gh\/igareck\/vpn-configs-for-russia@main\/Vless-Reality-White-Lists-Rus-Mobile.txt",
+      "enabled": true
+    },
+    {
+      "id": "igarck_cidr_full",
+      "title": "igarck · CIDR полный (все конфиги)",
+      "url": "https:\/\/raw.githubusercontent.com\/igareck\/vpn-configs-for-russia\/main\/WHITE-CIDR-RU-all.txt",
+      "mirrorUrl": "https:\/\/cdn.jsdelivr.net\/gh\/igareck\/vpn-configs-for-russia@main\/WHITE-CIDR-RU-all.txt",
+      "enabled": true
+    },
+    {
+      "id": "igarck_sni",
+      "title": "igarck · SNI белые списки",
+      "url": "https:\/\/raw.githubusercontent.com\/igareck\/vpn-configs-for-russia\/main\/WHITE-SNI-RU-all.txt",
+      "mirrorUrl": "https:\/\/cdn.jsdelivr.net\/gh\/igareck\/vpn-configs-for-russia@main\/WHITE-SNI-RU-all.txt",
+      "enabled": true
+    },
+    {
+      "id": "solovyov_cidr",
+      "title": "solovyov · CIDR подписка",
+      "url": "https:\/\/raw.githubusercontent.com\/solovyov-jenya2004\/all_subs\/refs\/heads\/main\/final_sorted\/",
+      "mirrorUrl": "https:\/\/cdn.jsdelivr.net\/gh\/solovyov-jenya2004\/all_subs@main\/final_sorted\/",
+      "enabled": true
+    },
+    {
+      "id": "solovyov_cidr_b64",
+      "title": "solovyov · CIDR Base64",
+      "url": "https:\/\/raw.githubusercontent.com\/solovyov-jenya2004\/all_subs\/refs\/heads\/main\/final_sorted_base64\/",
+      "mirrorUrl": "https:\/\/cdn.jsdelivr.net\/gh\/solovyov-jenya2004\/all_subs@main\/final_sorted_base64\/",
+      "enabled": false
+    }
+  ]
 }
